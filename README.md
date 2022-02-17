@@ -2,4 +2,6 @@
 
 Welcome to my Github page. Please find my resume included in this directory.
 
-Thanks. TOM
+Have a great day!
+
+Cheers. TOM
